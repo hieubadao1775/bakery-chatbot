@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langchain-mongodb
+langchain-deepseek
+langgraph
+python-dotenv
+pymongo
+langchain-community
+fastapi 
+uvicorn 
+pydantic
